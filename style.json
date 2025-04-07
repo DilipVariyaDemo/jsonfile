@@ -4,7 +4,7 @@
     "name": "Basic",
     "sources": {
       "openmaptiles": {
-        "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=HovYy98OAG1gNwhtui46",
+        "url": "",
         "type": "vector"
       },
       "maptiler_attribution": {
