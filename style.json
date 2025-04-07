@@ -1139,7 +1139,7 @@
     "metadata": {
       "maptiler:copyright": "This style was generated on MapTiler Cloud. Usage outside of MapTiler Cloud requires valid MapTiler Data Package: https://www.maptiler.com/data/package/ -- please contact us."
     },
-    "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=HovYy98OAG1gNwhtui46",
+    "glyphs": "",
     "bearing": 0,
     "pitch": 0,
     "center": [
